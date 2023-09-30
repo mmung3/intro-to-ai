@@ -1,0 +1,29 @@
+DFS: 
+Expanding: S
+Expanding: C
+Expanding: F
+Expanding: Z
+Success: S C F Z 
+
+BFS: 
+Expanding: S
+Expanding: A
+Expanding: B
+Expanding: C
+Expanding: C
+Expanding: C
+Expanding: D
+Expanding: E
+Expanding: F
+Expanding: D
+Expanding: E
+Expanding: F
+Expanding: D
+Expanding: E
+Expanding: F
+Expanding: F
+Expanding: F
+Expanding: G
+Expanding: H
+Expanding: Z
+Success: S C F Z 
