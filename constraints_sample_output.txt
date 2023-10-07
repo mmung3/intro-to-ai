@@ -1,0 +1,1280 @@
+"C:\Users\Matthew M\PycharmProjects\cpsc322\venv\Scripts\python.exe" "C:\Users\Matthew M\PycharmProjects\cpsc322\new_textbook_dfs.py" 
+H=1   G=1     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=2     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=3     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=4     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+H=2   G=1     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=2     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=3     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             B=1               A=1                 failed
+              A=2                 solution
+              A=3                 failed
+              A=4                 failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=4     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+H=3   G=1     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=2     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 solution
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=3     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             B=1               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=4     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+H=4   G=1     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 solution
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=2     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=3     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             B=1               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=2               failed
+            B=3               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=4               failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               failed
+            B=4               failed
+          C=3             failed
+          C=4             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             B=1               failed
+            B=2               failed
+            B=3               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 solution
+            B=4               failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+  G=4     F=1       E=1         failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             B=1               failed
+            B=2               A=1                 failed
+              A=2                 failed
+              A=3                 failed
+              A=4                 failed
+            B=3               failed
+            B=4               failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=2       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+    F=3       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         failed
+      E=4         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=3           failed
+        D=4           failed
+    F=4       E=1         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=2         D=1           failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=3         D=1           C=1             failed
+          C=2             failed
+          C=3             failed
+          C=4             failed
+        D=2           failed
+        D=3           failed
+        D=4           failed
+      E=4         failed
+
+Solutions found:
+
+[('H', 2), ('G', 3), ('F', 2), ('E', 4), ('D', 1), ('C', 4), ('B', 1), ('A', 2)]
+[('H', 3), ('G', 2), ('F', 3), ('E', 4), ('D', 2), ('C', 1), ('B', 2), ('A', 3)]
+[('H', 4), ('G', 1), ('F', 4), ('E', 3), ('D', 1), ('C', 2), ('B', 3), ('A', 4)]
+[('H', 4), ('G', 3), ('F', 4), ('E', 3), ('D', 1), ('C', 2), ('B', 3), ('A', 4)]
+
+Process finished with exit code 0
