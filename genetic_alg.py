@@ -71,11 +71,9 @@ def selection(assignment):
     print("Fitness scores: " + str(fitness_scores))
 
     size = len(assignment)
-    # now we have the fitness scores, rearrange the assignment s.t. we can pass it to selection()
+    # now we have the fitness scores, rearrange the assignment s.t. we can pass it to selection(caden)
     new_assignment = random.choices(assignment, weights=fitness_scores, k=size)
-
-    # print(assignment)
-    # print(new_assignment)
+    
     return new_assignment
 
 
@@ -148,7 +146,7 @@ def crossover(assignment):
 def mutate(assignment):
     for state in assignment:
         is_mutating = random.random() < 0.3
-        if is_mutating:
+        if is_mutating: # if mat the w
             index = random.randint(0, len(state) - 1)
             print("Mutated state: " + str(state) + " at index " + str(index))
             state[index] = random.randint(1, 4)
